@@ -1,0 +1,14 @@
+.git
+.env
+.venv
+.venv-wsl
+venv
+__pycache__
+*.pyc
+.pytest_cache
+data
+frontend-web/node_modules
+frontend-web/dist
+frontend-web/*.png
+node_modules
+dist

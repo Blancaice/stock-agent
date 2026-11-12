@@ -1,0 +1,11 @@
+[mcp_servers.fuyao-a-share]
+url = "https://fuyao.aicubes.cn/mcp/a-share"
+
+[mcp_servers.fuyao-a-share.env_http_headers]
+X-api-key = "FUYAO_API_KEY"
+
+[mcp_servers.fuyao-meta]
+url = "https://fuyao.aicubes.cn/mcp/meta"
+
+[mcp_servers.fuyao-meta.env_http_headers]
+X-api-key = "FUYAO_API_KEY"
